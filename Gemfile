@@ -53,3 +53,4 @@ end
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 gem 'devise'
 gem 'devise_token_auth'
+gem "pundit", "~> 2.2"
